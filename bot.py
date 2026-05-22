@@ -23,7 +23,7 @@ from scenes import get_scene, get_first_scene_id, get_total_scenes_count
 # ─────────────────────────────────────────────────────────────────────────────
 # КОНФИГУРАЦИЯ — замените на реальный токен бота от @BotFather
 # ─────────────────────────────────────────────────────────────────────────────
-BOT_TOKEN = "8608671773:AAEC7k-BiX_ox33uQVEpzI9domxdPCr23us"
+BOT_TOKEN = 
 
 DB_PATH = Path(__file__).parent / "progress.db"
 LOG_FILE = Path(__file__).parent / "bot.log"
